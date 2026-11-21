@@ -1,0 +1,5 @@
+format: DESIGNER
+source-set:
+  - name: waterlab
+    type: CONFIGURATION
+    path: 'app/models'

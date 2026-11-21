@@ -1,0 +1,8 @@
+.build/
+v8project.local.yaml
+ConfigDumpInfo.xml
+*.1CD
+*.dt
+*.cf
+*.cfe
+*.log
